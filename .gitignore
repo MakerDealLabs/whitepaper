@@ -1,0 +1,9 @@
+# Only upload track generated PDF
+*.png
+*.aux
+*.log
+*.tex
+*.bib
+
+# Avoid unfinished versions 
+spanish/
